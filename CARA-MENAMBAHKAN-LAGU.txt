@@ -1,0 +1,9 @@
+CARA MENAMBAHKAN LAGU
+
+1. Siapkan lagu milikmu dalam format MP3.
+2. Ubah nama file menjadi: lagu.mp3
+3. Letakkan lagu.mp3 di folder yang sama dengan index.html (bukan di folder foto).
+4. Buka index.html, lalu tekan tombol “🎵 Putar Lagu”. Tombol berubah menjadi “⏸ Jeda Lagu” saat musik diputar.
+5. Jika mengunggah ke GitHub Pages, ikut unggah juga file lagu.mp3 di folder yang sama dengan index.html.
+
+Catatan: file MP3 belum disertakan dalam ZIP ini karena belum diunggah. Browser HP biasanya meminta pengguna menekan tombol sebelum audio boleh diputar.
